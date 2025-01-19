@@ -1,5 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watanabe1101&layout=compact&theme=onedark
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watanabe1101&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Watanabe1101&theme=onedark&show_icons=ture" />
+</p>
 
 
 <!--
